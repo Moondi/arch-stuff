@@ -1,0 +1,6 @@
+useful commands for debug info:
+dmesg
+lspci -tv
+sudo lspci -vv
+sudo lspci -v
+cat /proc/acpi/wakeup

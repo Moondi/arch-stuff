@@ -1,0 +1,4 @@
+useful directories
+/sys/devices/pci........./device/power/wakeup
+/sys/class/net/.../device/power/wakeup
+
